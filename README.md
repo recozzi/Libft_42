@@ -11,7 +11,7 @@ Specifically, the bonus part focuses on the manipulation of lists and using stru
   <pre><code>git clone git@github.com:recozzi/Libft_42.git</code></pre>
   <li>Move to the project's directory:</li>
   <pre><code>cd Libft</code></pre>
-  <li>Compile the library with Makefile rule:</li>
+  <li>Compile the project with Makefile rule:</li>
   <pre><code>make</code></pre>
   <li>Now you are ready to use this library:</li>
   <pre><code>gcc main.c libft.a -o program_name</code></pre>
