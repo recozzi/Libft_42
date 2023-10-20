@@ -23,14 +23,14 @@
 # include <limits.h>
 # include <string.h>
 
-// fd -------------------------------------------------------------------------
+// fd =========================================================================== //
 
 void		ft_putchar_fd(char c, int fd);
 void		ft_putendl_fd(char *s, int fd);
 void		ft_putstr_fd(char *s, int fd);
 void		ft_putnbr_fd(int nb, int fd);
 
-// is -------------------------------------------------------------------------
+// is =========================================================================== //
 
 int			ft_isalpha(int c);
 int			ft_isdigit(int c);
@@ -40,7 +40,7 @@ int			ft_isprint(int c);
 int			ft_tolower(int c);
 int			ft_toupper(int c);
 
-// mem ------------------------------------------------------------------------
+// mem =========================================================================== //
 
 void		*ft_memset(void *p_s, int c, size_t n);
 void		ft_bzero(void *s, size_t n);
@@ -51,7 +51,7 @@ void		*ft_calloc(size_t nmemb, size_t size);
 void		*ft_free(void **ptr);
 int			ft_memcmp(const void *s1, const void *s2, size_t n);
 
-//str -------------------------------------------------------------------------
+// str =========================================================================== //
 
 typedef struct s_var
 {
@@ -84,7 +84,7 @@ void		ft_striteri(char *s, void (*f)(unsigned int, char*));
 long int	ft_atol(const char *nptr);
 double		ft_atof(const char *nptr);
 
-//lst -------------------------------------------------------------------------
+// lst =========================================================================== //
 
 typedef struct s_list
 {
