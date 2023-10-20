@@ -17,6 +17,6 @@ Specifically, the bonus part focuses on the manipulation of lists and using stru
   <pre><code>gcc main.c libft.a -o program_name</code></pre>
 </ol>
 <h2>Info</h2>
-For more information about this project, please read the subject file <a href="https://github.com/recozzi/notebook/blob/master/42cursus/Libft/subject.pdf">here</a>.
+For more information about this project, please read the subject file <a href="https://github.com/recozzi/Libft_42/blob/main/en.subject.pdf">here</a>.
 <h2>Licence</h2>
-See <a href="https://github.com/recozzi/notebook/blob/master/42cursus/Libft/LICENSE">License</a>.
+See <a href="https://github.com/recozzi/Libft_42/blob/main/LICENSE">License</a>.
