@@ -8,7 +8,7 @@ Specifically, the bonus part focuses on the manipulation of lists and using stru
 <h2>How To Use</h2>
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone git@github.com:recozzi/Libft_42.git</code></pre>
+  <pre><code>git clone https://github.com/recozzi/Libft_42.git</code></pre>
   <li>Move to the project's directory:</li>
   <pre><code>cd Libft</code></pre>
   <li>Compile the project with Makefile rule:</li>
